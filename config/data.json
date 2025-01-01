@@ -1,0 +1,6 @@
+{
+  "name": "fixtures",
+  "version": 1,
+  "features": ["diff", "rename", "binary"],
+  "enabled": true
+}

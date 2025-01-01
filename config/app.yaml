@@ -1,0 +1,7 @@
+service: fixtures
+port: 8080
+features:
+  - diff
+  - rename
+logging:
+  level: info
