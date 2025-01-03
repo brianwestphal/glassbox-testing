@@ -4,4 +4,4 @@ features:
   - diff
   - rename
 logging:
-  level: info
+  level: debug

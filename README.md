@@ -7,3 +7,7 @@ the Glassbox ground-truth screenshot suite. Do not depend on this content.
 - Renames, deletes, pure additions
 - Binary files and minified long-line files
 - Image swaps
+
+## Status
+
+Seeded and ready for diff-shape captures.
